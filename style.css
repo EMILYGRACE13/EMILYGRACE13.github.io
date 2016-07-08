@@ -1,0 +1,14 @@
+body {
+    background-color: #ccffff;
+    font-family: 'Alex Brush', cursive;
+}
+
+img { 
+display: block;
+hight: 450px;
+width: 450px;
+}
+
+#title {
+      backround: red;
+      }
